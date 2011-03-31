@@ -31,7 +31,7 @@ def MainMenu():
 	dir.Append(Function(DirectoryItem(VideoDirectory, title="Current Question", thumb=R("currentquestion.png")), url="http://current.com/topics/76254442/current_question/default/0.htm"))
 	dir.Append(Function(DirectoryItem(VideoDirectory, title="Current Virals", thumb=R("currentvirals.png")), url="http://current.com/topics/76254682/current_virals/default/0.htm"))
 	dir.Append(Function(DirectoryItem(VideoDirectory, title="Daily Fix", thumb=R("dailyfix.png")), url="http://current.com/topics/76254722/daily_fix/default/0.htm"))
-	dir.Append(Function(DirectoryItem(VideoDirectory, title="Infomania", thumb=R("infomania.png")), url="http://current.com/topics/76254712/infomania/default/0.htm"))
+#	dir.Append(Function(DirectoryItem(VideoDirectory, title="Infomania", thumb=R("infomania.png")), url="http://current.com/topics/76254712/infomania/default/0.htm"))
 	dir.Append(Function(DirectoryItem(VideoDirectory, title="Joe Central", thumb=R("joe.png")), url="http://current.com/topics/86547961/joe_central/default/0.htm"))
 #	dir.Append(Function(DirectoryItem(VideoDirectory, title="Salon", thumb=R("salon.png")), url="http://current.com/topics/77314621/salon/default/0.htm"))
 #	dir.Append(Function(DirectoryItem(VideoDirectory, title="Supernews", thumb=R("supernews.png")), url="http://current.com/topics/76254232/supernews/default/0.htm"))
